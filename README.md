@@ -1,9 +1,7 @@
-
-
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/your-repository/weather-forecast)
-![Python version](https://img.shields.io/badge/python-3.11-blue.svg)
-
-
+![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)
+![Streamlit](https://img.shields.io/badge/streamlit-1.0-orange.svg)
+![Plotly](https://img.shields.io/badge/plotly-5.0-blue.svg)
+![API](https://img.shields.io/badge/API-v1-green.svg)
 
 ### Weather Forecast for the Next Days
 
@@ -52,7 +50,8 @@ Contributions are welcome! For major changes, please open an issue first to disc
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
+### Final Look 
 
-![Screenshot 2023-12-15 at 7.27.28 PM.png](..%2F..%2F..%2F..%2F..%2FDesktop%2FScreenshot%202023-12-15%20at%207.27.28%E2%80%AFPM.png)
+![temperature.png](images%2Ftemperature.png)
 
-![Screenshot 2023-12-15 at 7.24.11 PM.png](..%2F..%2F..%2F..%2F..%2FDesktop%2FScreenshot%202023-12-15%20at%207.24.11%E2%80%AFPM.png)
+![sky.png](images%2Fsky.png)
